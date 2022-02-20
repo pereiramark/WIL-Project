@@ -4,8 +4,8 @@
 
 ### The World Map showing Active cases
 
-<img src="https://github.com/pereiramark/WIL-Project/blob/master/mapAct.PNG" width="550px" height="400px">
+<img src="https://github.com/pereiramark/WIL-Project/blob/main/mapAct.PNG" width="550px" height="400px">
 
 ### GDP of the global comparing on different years
 
-<img src="https://github.com/pereiramark/WIL-Project/blob/master/ou1.PNG" width="500px" height="500px">
+<img src="https://github.com/pereiramark/WIL-Project/blob/main/ou1.PNG" width="500px" height="500px">
